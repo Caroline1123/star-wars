@@ -1,0 +1,10 @@
+* {
+    background-image: url("thijs-slootjes-lVOL-j5XtQY-unsplash.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+p.intro {
+    color: blue;
+}
