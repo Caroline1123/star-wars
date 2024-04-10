@@ -7,7 +7,6 @@ body {
     color : #FFC500;
     text-align:center;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    margin:50% 0 0 0;
     position:relative;
 }
 
@@ -42,12 +41,9 @@ img {
 
 @keyframes scrolling {
     from { 
-        top:0;
-        transform: translateZ(0) rotateX(20deg);
+        top:0; transform: translateZ(0) rotateX(20deg);
     }
     to {
-        top:-7500px;
-        transform: translateZ(-2500px) rotateX(21deg);
+        top:-7500px; transform: translateZ(-2500px) rotateX(21deg);
     }
-
 }
